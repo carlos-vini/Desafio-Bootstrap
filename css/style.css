@@ -1,0 +1,22 @@
+.form-pesquisa{
+    background: linear-gradient(to right, rgb(9,127,201),rgb(0,39,78));
+}
+
+.hover:hover{
+    text-decoration: none;
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+}
+
+.hover{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: #000;
+    cursor: pointer;
+}
+
+.fundo{
+    background: rgb(0, 79, 156)
+}
